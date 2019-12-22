@@ -1,11 +1,11 @@
-/* package codechef; // don't place package name! */
+
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-class Codechef
+class ParthAcademy
 {
     public  void search(int[] arr,int ele){
         int len = arr.length;
@@ -23,8 +23,8 @@ class Codechef
 	{
 		System.out.println("Hello World!");
 		int [] arr= new int[]{1,3,4,5,6};
-		Codechef c = new Codechef();
+		ParthAcademy pa = new ParthAcademy();
 		
-		c.search(arr,53);
+		pa.search(arr,53);
 	}
 }
